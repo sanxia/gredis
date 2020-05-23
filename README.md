@@ -1,2 +1,2 @@
 # gredis
-golang redis client
+golang redis command client
